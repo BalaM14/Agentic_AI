@@ -6,3 +6,7 @@ langchain-community
 bs4
 faiss-cpu
 from_root
+langchain_groq
+transformers
+wikipedia
+arxiv
