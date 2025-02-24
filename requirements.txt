@@ -12,3 +12,4 @@ wikipedia
 arxiv
 langgraph
 IPython
+langgraph-cli[inmem]

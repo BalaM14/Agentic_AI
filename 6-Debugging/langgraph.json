@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "openai_agent":"./langgraph_chatbot.py:agent"
+    },
+    "env":"../.env"
+}
